@@ -1,0 +1,16 @@
+./anagram "Rail Safety" "Fairy tales" | cat -e
+./boxerNameFormatter "" | cat -e
+./clean_str "$(echo -ne "\tHello\t\t how are you?\t ")" | cat -e
+./countwords "$(echo -ne "\tit's not a book\t it's a book book\t ")" | cat -e
+./fazzbizz 8 12 | cat -e
+./fizzbuzz 10 15 | cat -e
+./fozzbazz 9 18 | cat -e
+./frenchNameFormatter "JeAN-MICHEL don diEgo De la vega" | cat -e
+./fuzzbozz 6 12 | cat -e
+./geekNameFormatter 'santa Tomato!KETCHUP/' | cat -e
+./hidenp padinton "paqefwtdjetyiytjneytjoeynejeyj" | cat -e
+./palindrome "Noon" | cat -e
+./rrostring "Let there    be more light" | cat -e
+./rostring "Let there     be light" | cat -e
+./sort_words "somewhere i     lost just my sanity" | cat -e
+./USNameFormatter "pJ HARVEY" | cat -e

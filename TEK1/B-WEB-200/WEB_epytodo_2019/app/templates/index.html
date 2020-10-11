@@ -1,0 +1,70 @@
+{% extends "layouts/layout.html" %}
+
+{% block intro %}
+    <style>
+        .marketing .col-lg-4 {
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        .marketing h2 {
+            font-weight: normal;
+        }
+        .marketing .col-lg-4 p {
+            margin-right: 10px;
+            margin-left: 10px;
+        }
+        .jumbotron {
+            background-color: powderblue;
+            text-align: center;
+        }
+        .jumbotron .btn {
+            padding: 14px 24px;
+            font-size: 21px;
+        }
+    </style>
+    <div class="container">
+        <div class="jumbotron">
+            <h1 class="text-center"> Welcome to Epytodo APP </h1>
+            <p> Epytodo is our first web project whose goal is to be able to manage your own "agenda" online. </p>
+            <h2 class="text-center"> How to Use Epytodo </h2><br>
+                <ul>
+                    <li><h4>You must register with your mail adress and a password of your choice. Be careful to not forget your password</h4></li>
+                    <li><h4>After registering, you can connect with your identifiants</h4></li>
+                    <li><h4>Then, you can execute many task by select the option you want</h4></li>
+                </ul>
+            <br>
+            <p>
+                <a class="btn btn-lg btn-primary" href="{{ url_for('register') }}" role="button"><span class="glyphicon glyphicon-user"></span> Register</a>
+                <a class="btn btn-lg btn-success" href="{{ url_for('signin') }}" role="button"><span class="glyphicon glyphicon-log-in"></span> Login</a>
+            </p>
+        </div>
+    </div>
+    <div class="container marketing">
+        <div class="row">
+            <div class="col-lg-4">
+                <img class="img-circle" src="{{ url_for('static', filename='img/josue.png') }}" alt="Generic placeholder image" width="140" height="140">
+                <h2>Josué HOUSSOU</h2>
+                <p>Email: <a href="mailto:josue.houssou@epitech.eu">josue.houssou@epitech.eu</a><br><br>
+                    LinkedIn: <a href="https://www.linkedin.com/in/josué-houssou-0a98b61a1">Josue HOUSSOU</a><br><br>
+                    Tel: +229 96 02 18 47<br><br>
+                </p>
+            </div>
+            <div class="col-lg-4">
+                <img class="img-circle" src="{{ url_for('static', filename='img/blacky.png') }}" alt="Generic placeholder image" width="140" height="140">
+                <h2>Hamidou TESSILIMI</h2>
+                <p>Email: <a href="mailto:hamidou.tessilimi@epitech.eu">hamidou.tessilimi@epitech.eu</a><br><br>
+                    LinkedIn: <a href="https://www.linkedin.com/in/hamidou-tessilimi-03820a170">Hamidou TESSILIMI</a><br><br>
+                    Tel: +229 67 908 908 <br><br>
+                </p>
+            </div>
+            <div class="col-lg-4">
+                <img class="img-circle" src="{{ url_for('static', filename='img/lesly.png') }}" alt="Generic placeholder image" width="140" height="140">
+                <h2>Lesly HONFO</h2>
+                <p>Email: <a href="mailto:lesly.honfo@epitech.eu">lesly.honfo@epitech.eu</a><br><br>
+                    LinkedIn: <a href="https://www.linkedin.com/in/lesly-honfo-17a92b1a2">Lesly HONFO</a><br><br>                    
+                    Tel: +229 67 57 02 05<br><br>
+                </p>
+            </div>
+        </div>
+    </div>
+{% endblock %}

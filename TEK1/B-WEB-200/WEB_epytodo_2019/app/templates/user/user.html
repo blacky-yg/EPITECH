@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <style>
+            .add {
+                text-align: center;
+            }
+        </style>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+            {% if current_user %}
+                <title> Welcome {{ current_user.username }} / EPYTODO</title>
+            {% else %}
+                <title>Welcome to EPYTODO App</title>
+            {% endif %}
+    </head>
+    <body>
+        <header>
+            <nav class="navbar navbar-inverse">
+                <div class="navbar-header">
+                    <button type="button" data-target="#navbarCollapse" data-toggle="collapse" class="navbar-toggle">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a href="{{ url_for('index') }}" class="navbar-brand"><span class="glyphicon glyphicon-check"></span>EPYTODO</a>
+                </div>
+                <div id="navbarCollapse" class="collapse navbar-collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a href="{{ url_for('user_connect') }}">{{ current_user.username}}</a></li>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="{{ url_for('signout') }}"><span class="glyphicon glyphicon-log-out"></span> Logout</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </header>
+        <div class="container">
+            {% with messages = get_flashed_messages() %}
+            {% if messages %}
+                <ul>
+                    {% for message in messages %}
+                        <li>{{ message }}</li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
+            {% endwith %}    
+        </div>
+        <div class="container">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">Task ID</th>
+                        <th scope="col">Tile</th>
+                        <th scope="col">Begin</th>
+                        <th scope="col">End</th>
+                        <th scope="col">Status</th>
+                        <th scope="col">Modify</th>
+                        <th scope="col">Delete</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% if task %}
+                        {% for tk in task %}
+                            <tr>
+                                <td><a href="{{ url_for('show_task_id') }}">{{ tk.id }}</a></td>
+                                <td>{{ tk.title }}</td>
+                                <td>{{ tk.begin }}</td>
+                                <td>{{ tk.end }}</td>
+                                <td>{{ tk.status }}</td>
+                                <td><button onclick="" class="btn btn-primary">Update Task</button></td>
+                                <td><button onclick="" class="btn btn-danger">Delete Task</button></td>
+                            </tr>
+                        {% endfor %}
+                    {% endif %}
+                </tbody>
+            </table>
+        </div>
+
+        <div class="container add">
+            <button type="button" class="btn btn-success btn-lg" data-toggle="modal" data-target="#myModal">Add task</button>
+            <div class="modal fade" id="myModal" role="dialog">
+                <div class="modal-dialog">                
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal">&times;</button>
+                            <h2 class="modal-title">Add Task</h2>
+                        </div>
+                        <div class="modal-body">
+                            <form class="form-horizontal", method="POST" action="{{ url_for('create_task') }}">
+                                {{ form.csrf_token }}
+                                <fieldset>
+                                    <div class="form-group">
+                                        <label for="{{ form.title.name }}" class="col-lg-2 control-label">{{ form.title.label.text }}</label>
+                                        <div class="col-lg-10">
+                                            {{ form.title(class_='form.control') }}
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="{{ form.begin.name }}" class="col-lg-2 control-label">{{ form.begin.label.text }}</label>
+                                        <div class="col-lg-10">
+                                            {{ form.begin(class_='form.control') }}
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="{{ form.end.name }}" class="col-lg-2 control-label">{{ form.end.label.text }}</label>
+                                        <div class="col-lg-10">
+                                            {{ form.end(class_='form.control') }}
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        {{ form.submit(class_='btn btn-success') }}
+                                    </div>
+                                </fieldset>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <footer class="page-footer font-small blue fixed-bottom">/
+            <div class="footer-copyright text-center py-3">© 2020 Copyright:
+                <a href="{{ url_for('index') }}"> EPYTODO APP</a>
+            </div>
+        </footer>
+    </body>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+</html>
