@@ -1,14 +1,19 @@
-# EPITECH_PROJECTS
+# EPITECH_PROJECTS PROMO 2024
 
-## DESCRIPTION
+<p align="center">
+    <br/><br/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Epitech.png/1598px-Epitech.png" width="500">
+</p>
 
-Hello, this repo is created to present you a list of the projects that you will have to carry out during your years at EPITECH
+<h1 align="center"> DESCRIPTION </h1>
 
-## PROJECTS
+> Hello, this repo is created to present you all the projects that I did during my years at EPITECH between 2019 && 2024
 
-#### TEK1
+<h1 align="center"> PROJECTS </h1>
 
-<table>
+<h3 align="center"> TEK 1 </h3>
+
+<table align="center">
     <thead>
         <tr>
             <th>MODULE</th>
@@ -236,16 +241,88 @@ Hello, this repo is created to present you a list of the projects that you will 
     </tbody>
 </table>
 
+<h3 align="center"> TEK 1 </h3>
+
 #### TEK2
+<table align="center">
+    <thead>
+        <tr>
+            <th>MODULE</th>
+            <th>PROJECT NAME</th>
+            <th>LINK</th>
+            <th>Kick-Off</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="4" style="text-align: center;">SEMESTRE 3 (B3)</td>
+        </tr>
+        <tr>
+            <td>B-PRO-300</tdle=>
+            <td>Internship</td>
+            <td>link</td>
+            <td>Some Descripion</td>
+        </tr>
+        <tr>
+            <td>B-PRO-300</tdle=>
+            <td>Internship</td>
+            <td>link</td>
+            <td>Some Descripion</td>
+        </tr>
+        <tr>
+            <td>B-FUN-300</tdle=>
+            <td>Functional Programming</td>
+            <td>link</td>
+            <td>Some Descripion</td>
+        </tr>
+        <tr>
+            <td colspan="5" style="text-align: center;">SEMESTRE 4 (B4)</td>
+        </tr>
+        <tr>
+            <td>B-AIA-200</td>
+            <td>needForStek</td>
+            <td>Link</td>
+            <td>Desciption</td>
+        </tr>
+        <tr>
+            <td rowspan="5" style="text-align: center;">B-MAT-400</td>
+            <td>106bombyx</td>
+            <td>Link</td>
+            <td>Desciption</td>
+        </tr>
+        <tr>
+            <td>107transfer</td>
+            <td>Link</td>
+            <td>Desciption</td>
+        </tr>
+        <tr>
+            <td>108trigo</td>
+            <td>Link</td>
+            <td>Desciption</td>
+        </tr>
+        <tr>
+            <td>109titration</td>
+            <td>Link</td>
+            <td>Desciption</td>
+        </tr>
+        <tr>
+            <td>110borwein</td>
+            <td>Link</td>
+            <td>Desciption</td>
+        </tr>
+    </tbody>
+</table>
+
+<h3 align="center"> TEK 3 </h3>
+
 >Coming soon
 
-#### TEK3
+<h3 align="center"> TEK 4 </h3>
+
 >Coming soon
 
-#### TEK4
->Coming soon
+<h3 align="center"> TEK 5 </h3>
 
-#### TEK5
 >Coming soon
 
 Made by [Hamidou TESSILIMI](https://github.com/blacky-yg)
