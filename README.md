@@ -242,4 +242,10 @@ Hello, this repo is created to present you a list of the projects that you will 
 #### TEK3
 >Coming soon
 
+#### TEK4
+>Coming soon
+
+#### TEK5
+>Coming soon
+
 Made by [Hamidou TESSILIMI](https://github.com/blacky-yg)
