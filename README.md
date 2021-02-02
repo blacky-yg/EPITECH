@@ -241,9 +241,8 @@
     </tbody>
 </table>
 
-<h3 align="center"> TEK 1 </h3>
+<h3 align="center"> TEK 2 </h3>
 
-#### TEK2
 <table align="center">
     <thead>
         <tr>
