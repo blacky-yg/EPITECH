@@ -1,6 +1,6 @@
 # B-AIA-200
 
-## Unit description
+## UNIT DESCRIPTION
 
 This unit is made up of one single project, which consists of simulating an autonomous car.
 
@@ -18,7 +18,7 @@ The bootstrap only covers the practical aspect of moving the car, not on how to 
 
 The main key words are in the project description. It's up to you to know how to use a search engine to its full capacity and your skills in order to understand, assimilate, apply and optimize the solutions you will find.
 
-## Skills to be acquired
+## SKILLS TO BE ACQUIRED
 
 •	Overview of "Artificial Intelligence" domain
 •	Introduction to research in a state-space

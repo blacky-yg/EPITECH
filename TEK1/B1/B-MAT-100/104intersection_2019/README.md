@@ -6,7 +6,7 @@ Create synthesis images, potential intersection points between light rays and sc
 
 The straight line is defined by the coordinates of a point by which it goes through and by the coordinates of a direction vector.
 
-## Prerequisites
+## PREREQUISITES
 What do you need to install ?
 ```bash
 GlibC
@@ -14,7 +14,7 @@ gcc
 make
 ```
 
-## How to Build
+## HOW TO BUILD
 Clone and go into `104intersection_2019` directory.
 Then, 
 ```bash

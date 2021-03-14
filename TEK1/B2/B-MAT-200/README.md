@@ -1,6 +1,6 @@
 # B-MAT-200
 
-## Unit description
+## UNIT DESCRIPTION
 
 This is the second part of the unit consecrated to mathematical tools. This unit is a complementary introduction to programmation (reviewing some of the Pool's elements), and is also an introduction to scientific programming.
 
@@ -10,7 +10,7 @@ THEMES COVERED :
 1° Numerical sequences and functions
 2° Functional tools : derivatives, integration and their numerical implementations.
 
-## Skills to be acquired
+## SKILLS TO BE ACQUIRED
 
 You should be proficient in basic mathematical tools such as: polynomals, function curves, sequences, derivatives, integration etc.
 You should be able to intelligently and clearly implement scientific algorithms.

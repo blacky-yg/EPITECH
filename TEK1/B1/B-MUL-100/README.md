@@ -1,6 +1,6 @@
 # B-MUL-100
 
-## Unit description
+## UNIT DESCRIPTION
 
 The graphical programming consists in creating images/animations and scenes management using algorithms and graphical resources.
 
@@ -23,7 +23,7 @@ Throughout the year, you will use the CSFML, a multimedia librairie developped i
 
 For any question, feel free to check out "MUL 2023" on Yammer.
 
-## Skills to be acquired
+## SKILLS TO BE ACQUIRED
 
 Gaming projects
 - Resources, Event, and Windows management.

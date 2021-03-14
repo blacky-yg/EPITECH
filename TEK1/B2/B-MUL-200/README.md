@@ -1,6 +1,6 @@
 # B-MAT-200
 
-## Unit description
+## UNIT DESCRIPTION
 
 Graphical programming consists in creating images/animations and scenes management using algorithms and graphical resources.
 
@@ -19,7 +19,7 @@ The MyRPG project is the final project of the unit. The objective is to create a
 
 Throughout the year, you will be provided the CSFML, a multimedia librairie developped in C.
 
-## Skills to be acquired
+## SKILLS TO BE ACQUIRED
 
 Skills from B1:
 - Opening windows

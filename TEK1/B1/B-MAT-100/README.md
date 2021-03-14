@@ -1,6 +1,6 @@
 # B-MAT-100
 
-## Unit description
+## UNIT DESCRITPION
 
 The first part of this unit focuses on mathematical tools. This unit is a complementary introduction to programming (reviewing some of the Pool’s elements) and is also an introduction to scientific programming.
 
@@ -9,7 +9,7 @@ TOPICS COVERED:
 2° Geometry: geometric transformations and coordinate systems.
 3° Nonlinear equation solving.
 
-## Skills to be acquired
+## SKILLS TO BE ACQUIRED
 
 A solid grasp on the basics of vector calculus and matric calculus.
 Must show ability to master simple algorithms.

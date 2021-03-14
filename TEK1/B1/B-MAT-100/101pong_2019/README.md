@@ -10,7 +10,7 @@ Your program must print:
 - The coordinates of the ball after a given amount of time,
 - The angle at which the ball will hit the paddle (if it will actually hit it, at anytime from t = 0).
 
-## Prerequisites
+## PREREQUISITES
 What do you need to install ?
 ```bash
 GlibC
@@ -18,7 +18,7 @@ gcc
 make
 ```
 
-## How to Build
+## HOW TO BUILD
 Clone and go into `104intersection_2019` directory.
 Then,
 ```bash
@@ -40,11 +40,11 @@ Type `./104intersection -h` to display help
 |z1	| ball ordinate at time t |
 |n	| time shift (greater than or equal to zero, integer) |
 
-## Example
+## EXAMPLES
 ![Example 1](captures/exemple1.png)
 ![Example 2](captures/exemple2.png)
 
-## Summary
+## SUMMARY
 | Details      | Mouli Epitech (%) |
 | ------------- |:-------------:|
 | `rigor`: 80% \| `vector`: 100% \| `trigonometry`: 100% \| `mathematical rigor`: 83.3% | 90.3% |

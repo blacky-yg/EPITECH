@@ -1,6 +1,6 @@
 # B-SEC-200
 
-## Unit description
+## UNIT DESCRIPTION
 
 Binary Security:
 
@@ -36,7 +36,7 @@ VALIDATION CRITERIA:
 
 A broad knowledge of reverse and detecting and exploiting applicative vulnerabilities will be among the criteria needed to validate the unit.
 
-## Skills to be acquired
+## SKILLS TO BE ACQUIRED
 
 Manipulating the reverse/debug tools: R2, GDB, Medusa etc.
 Knowing the basics of taking control of a program's execution flux.

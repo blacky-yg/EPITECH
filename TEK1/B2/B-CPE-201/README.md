@@ -1,6 +1,6 @@
 # B-CPE-201
 
-## Unit description
+## UNIT DESCRIPTION
 
 This unit continues to allows you to progress in the basics of programming and algorithms.
 
@@ -11,7 +11,7 @@ It will certainly cover more complex and advanced problems than its predecessor.
 ....................
 Your projects' success will demonstrate that you have acquired the minimum ability required for each of the following points.
 
-## Skills to be acquired
+## SKILLS TO BE ACQUIRED
 
 The goal of this unit is to acquire the skills to be able to create any project in C.
 

@@ -1,6 +1,6 @@
 # B-FRE-100
 
-## Unit description
+## UNIT DESCRIPTION
 
 Module d'écrits professionnels du semestre 1
 
@@ -36,7 +36,7 @@ En complément, des suivis personnalisés sont organisés pour les étudiants qu
 De plus, des ressources d’auto-formation sont mises à disposition des étudiants pour vous aider à résoudre des difficultés ponctuelles (accord des participes passés, ne pas confondre à, a et as, etc.).
 Ces ressources sont en libre accès sur l'e-learning (Semestre 0 / Auto-formation écrits professionnels).
 
-## Skills to be acquired
+## SKILLS TO BE ACQUIRED
 
 1)	Compétences transversales à tous les projets de ce module :
 Savoir rédiger un écrit :

@@ -1,10 +1,10 @@
 # B-CPE-200
 
-## Unit description
+## UNIT DESCRIPTION
 
 In a variety of ways, this unit will train you in (and allow you to practice the basics of) programming and problem analysis and the division and meticulous implementation that they demand.
 
-## Skills to be acquired
+## SKILLS TO BE ACQUIRED
 
 The goal of this unit is to acquire the skills to be able to create any project in C.
 

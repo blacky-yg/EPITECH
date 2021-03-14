@@ -1,6 +1,6 @@
 # B-NSA-200
 
-## Unit description
+## UNIT DESCRIPTION
 
 On the menu for this unit:
 - Installing an exploitation system without graphic interface (Arch Linux)
@@ -13,7 +13,7 @@ On the menu for this unit:
 The goal is to enable you to learn to master your Unix exploitation system.
 Your competencies will be evaluated through a project.
 
-## Skills to be acquired
+## SKILLS TO BE ACQUIRED
 
 - Installing and configuring an exploitation system on the command line
 

@@ -1,10 +1,11 @@
 # CPE_solostumpers_2019
 
 ## DESCRIPTION
-#### EPITECH PROJECT | solostumpers
 
+> EPITECH PROJECTS | solostumpers
 
-## Prerequisites
+## PREREQUISITES
+
 What do you need to install ?
 ```bash
 GlibC
@@ -12,9 +13,9 @@ gcc
 make
 ```
 
-## How to Build
+## HOW TO BUILD
 Clone and go into `CPE_solostumpers_2019` directory.
-Then, 
+Then,
 ```bash
 $ make
 ```
@@ -39,9 +40,10 @@ $ make
 | [sort_words](sort_words) | ![Example 15](captures/exemple15.png) |
 | [USNameFormatter](USNameFormatter) | ![Example 16](captures/exemple16.png) |
 
-## Sumarry
+## SUMMARY
 
 > Most of these exams have not been marked.
 
 ## WARNING
+
 :warning: : For EPITECH Students, don't use this repository. Pay attention to :no_entry: 42

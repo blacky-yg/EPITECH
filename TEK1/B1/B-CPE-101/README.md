@@ -1,6 +1,6 @@
 # B-CPE-101
 
-## Unit description
+## UNIT DESCRIPTION
 
 The C Pool is the foundation of the Epitech curriculum.
 
@@ -12,7 +12,7 @@ ON THE AGENDA:
 
 This unit is important because it serves as a bridge between the first part of the pool, with new tasks each days, and the rest of your scolarship at Epitech.
 
-## Skills to be acquired
+## SKILLS TO BE ACQUIRED
 
 - Be able to do a correct delivery
 

@@ -1,6 +1,6 @@
 # B-FRE-200
 
-## Unit description
+## UNIT DESCRIPTION
 
 Module d'écrits professionnels du semestre 2.
 
@@ -36,7 +36,7 @@ Des suivis personnalisés sont organisés pour les étudiants qui ont des diffic
 De plus, des ressources d’auto-formation sont mises à disposition des étudiants pour les aider à résoudre des difficultés ponctuelles (accord des participes passés, ne pas confondre à, a et as, etc.).
 Ces ressources sont en libre accès sur l'E-learning (Semestre 0 / Auto-formation écrits professionnels).
 
-## Skills to be acquired
+## SKILLS TO BE ACQUIRED
 
 1) Expliquer le fonctionnement d'une application à un utilisateur novice: savoir expliquer, se mettre à la portée du destinataire.
 

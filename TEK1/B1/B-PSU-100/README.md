@@ -1,6 +1,6 @@
 # B-PSU-100
 
-## Unit description
+## UNIT DESCRIPTION
 
 All the fundamental elements of UNIX programming
 
@@ -11,7 +11,7 @@ Mini projects to be done:
 -my_printf
 -my_ls
 
-## Skills to be acquired
+## SKILLS TO BE ACQUIRED
 
 +Technical skills (must acquire two in order to validate the unit)
 -Know how to execute system calls
