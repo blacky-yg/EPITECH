@@ -43,7 +43,7 @@
             <td>Scientific programming</td>
         </tr>
         <tr>
-            <td><a href="./B-MET-100">B-MET-100</a></td>
+            <td><a href="./B-MET-100">B-MET-100 (Professionals</a></td>
             <td>Review and Code Review Sessions</td>
         </tr>
         <tr>
