@@ -27,3 +27,19 @@ This unit is important because it serves as a bridge between the first part of t
 - Be able to do a simple project by yourself in restricted amount of time (stumper)
 
 - Produce your first real working project (bistromatic)
+
+## PROJECTS
+
+| Project  | Repository |
+| ------------- | ------------- |
+| Infinadd  | [CPool_infinadd_2019](./CPool_infinadd_2019)  |
+| Eval Expr  | [CPool_evalexpr_2019](./CPool_evalexpr_2019)  |
+| Bistro-matic  | [CPool_bistro-matic_2019](./CPool_bistro-matic_2019)  |
+
+---
+
+<div align="center">
+
+<a href="https://github.com/blacky-yg" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github.com" width="30"></a>
+
+</div>

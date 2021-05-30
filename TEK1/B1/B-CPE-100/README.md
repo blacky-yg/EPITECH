@@ -30,3 +30,34 @@ This very first unit is important. It marks the beginning of  a new educational 
 - Independently execute analyses and designs within an exam machine context
 
 - Manage to understand the problems associated with group work
+
+## PROJECTS
+
+| Project  | Repository |
+| ------------- | ------------- |
+| Day 01  | [CPool_Day01_2019](./CPool_Day01_2019)  |
+| Day 02  | [CPool_Day02_2019](./CPool_Day02_2019)  |
+| Day 03  | [CPool_Day03_2019](./CPool_Day03_2019)  |
+| Day 04  | [CPool_Day04_2019](./CPool_Day04_2019)  |
+| Day 05  | [CPool_Day05_2019](./CPool_Day05_2019)  |
+| Day 06  | [CPool_Day06_2019](./CPool_Day06_2019)  |
+| Day 07  | [CPool_Day07_2019](./CPool_Day07_2019)  |
+| Day 08  | [CPool_Day08_2019](./CPool_Day08_2019)  |
+| Day 09  | [CPool_Day09_2019](./CPool_Day09_2019)  |
+| Day 10  | [CPool_Day10_2019](./CPool_Day10_2019)  |
+| Day 11  | [CPool_Day11_2019](./CPool_Day11_2019)  |
+| Day 12  | [CPool_Day12_2019](./CPool_Day12_2019)  |
+| Day 13  | [CPool_Day13_2019](./CPool_Day13_2019)  |
+| ibmy  | [CPool_libmy_2019](./CPool_libmy_2019)  |
+| Rush 1  | [CPool_rush1_2019](./CPool_rush1_2019)  |
+| Rush 2  | [CPool_rush2_2019](./CPool_rush2_2019)  |
+| Tree  | [CPool_tree_2019](./CPool_Tree_2019)  |
+| Workshoplib  | [CPool_workshoplib_2019](./CPool_workshoplib_2019)  |
+
+---
+
+<div align="center">
+
+<a href="https://github.com/blacky-yg" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github.com" width="30"></a>
+
+</div>

@@ -17,3 +17,20 @@ This unit covers classic programming aspects such as simple data structures arra
 -Demonstrate the ability to solve simple problems by using simple algorithms
 
 -Make at least one functional rendering
+
+## PROJECTS
+
+| Project  | Repository |
+| ------------- | ------------- |
+| BSQ bootstrap  | [CPE_BSQ_bootstrap_2019](./CPE_BSQ_bootstrap_2019)  |
+| BSQ | [CPE_BSQ_2019](./CPE_BSQ_2019)  |
+| Pushswap bootstrap  | [CPE_pushswap_bootstrap_2019](./CPE_pushswap_bootstrap_2019)  |
+| Pushswap | [CPE_pushswap_2019](./CPE_pushswap_2019)  |
+
+---
+
+<div align="center">
+
+<a href="https://github.com/blacky-yg" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github.com" width="30"></a>
+
+</div>

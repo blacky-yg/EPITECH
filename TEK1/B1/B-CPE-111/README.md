@@ -17,3 +17,19 @@ This unit will address the programming aspects that are associated with the simp
 - demonstrate the capacity to solve simple problems through simple algorithms.
 
 - execute a functional delivery
+
+## PROJECTS
+
+| Project  | Repository |
+| ------------- | ------------- |
+| Getnextline  | [CPE_getnextline_2019](./CPE_getnextline_2019)  |
+| Matchstick Bootstrap | [CPE_matchstick_bootstrap_2019](./CPE_matchstick_bootstrap_2019)  |
+| Matchstick | [CPE_matchstick_2019](./CPE_matchstick_2019)  |
+
+---
+
+<div align="center">
+
+<a href="https://github.com/blacky-yg" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github.com" width="30"></a>
+
+</div>

@@ -54,3 +54,19 @@ Savoir rédiger un écrit :
 
 3) Compétences spécifiques mises en œuvre dans le projet RUSH :
 Savoir s'organiser en groupe pour mener un projet à terme.
+
+## PROJECTS
+
+| Project  | Repository |
+| ------------- | ------------- |
+| Lettre  | [Lettre](./B-FRE-100-COT-1-1-B1LETTRE-hamidou.tessilimi)  |
+| Mail | [Mail](./B-FRE-100-COT-1-1-B1MAIL-hamidou.tessilimi)  |
+| Rush (Seigneurs des mots) | [Rush](./B-FRE-100-COT-1-1-B1RUSH-basilia.tomeho)  |
+
+---
+
+<div align="center">
+
+<a href="https://github.com/blacky-yg" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github.com" width="30"></a>
+
+</div>

@@ -2,9 +2,9 @@
 
 ## BUT DU PROJET
 
-## REALISATIONS
+> Rush au cours duquel vous aurez une série de défis à relever en groupe. A la suite des épreuves, vous pourrez être consacrés "Seigneurs des mots" (ou pas).
 
-## MARK ()
+## MARK (20 / 20)
 
 ---
 

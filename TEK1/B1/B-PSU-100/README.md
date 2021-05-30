@@ -19,3 +19,19 @@ Mini projects to be done:
 
 +Personal skills (mandatory in order to validate the unit)
 -Know how to be meticulous during project development
+
+## PROJECTS
+
+| Project  | Repository |
+| ------------- | ------------- |
+| my_printf Bootstrap  | [PSU_my_printf_bootstrap_2019](./PSU_my_printf_bootstrap_2019)  |
+| my_printf  | [PSU_my_printf_2019](./PSU_my_printf_2019)  |
+| my_sokoban  | [PSU_my_sokoban_2019](./PSU_my_sokoban_2019)  |
+
+---
+
+<div align="center">
+
+<a href="https://github.com/blacky-yg" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github.com" width="30"></a>
+
+</div>

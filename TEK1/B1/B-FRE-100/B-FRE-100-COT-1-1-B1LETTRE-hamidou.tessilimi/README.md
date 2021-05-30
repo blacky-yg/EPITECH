@@ -2,9 +2,13 @@
 
 ## BUT DU PROJET
 
-## REALISATIONS
+> Vous devrez écrire une lettre pour vous sortir d'une situation embarrassante et défendre une position. Vous aurez à choisir parmi plusieurs scénarios.
 
-## MARK ()
+> Ce projet permet de démontrer sa capacité à s'adapter à son interlocuteur, argumenter pour le convaincre et structurer son écrit en tenant compte du type de texte que constitue la lettre. La précision et le ton adopté font partie des éléments-clés.
+
+> Bien que le courrier électronique soit plus fréquent que la lettre, vous aurez à rédiger des lettres au cours de votre vie professionnelle.
+
+## MARK (16 / 20)
 
 ---
 

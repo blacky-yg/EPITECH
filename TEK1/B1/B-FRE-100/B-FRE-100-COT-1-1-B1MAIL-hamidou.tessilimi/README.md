@@ -2,9 +2,13 @@
 
 ## BUT DU PROJET
 
-## REALISATIONS
+> Vous allez rédiger un mail professionnel court qui mobilise les compétences de base d'un type d'écrit fréquent en entreprise.
 
-## MARK ()
+> L'écrit demandé pour ce premier projet vous sert à mettre en jeu vos capacités à produire des textes courts, simples, compréhensibles, bien structurés, bien identifiés et bien vérifiés.
+
+> Vous devez par ailleurs savoir rédiger un texte professionnel complet qui transmet à l'interlocuteur toutes les informations dont il a besoin. Ces compétences sont les bases de tout écrit professionnel.
+
+## MARK (15 / 20)
 
 ---
 

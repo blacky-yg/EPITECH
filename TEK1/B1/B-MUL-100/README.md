@@ -40,3 +40,18 @@ Mathematics
 - Entity management
 - Implementation of simple collision algorithm (hitbox)
 - Optimisation techniques to render and manage large numbers of entities.
+
+## PROJECTS
+
+| Project  | Repository |
+| ------------- | ------------- |
+| Hunter  | [MUL_my_hunter_2019](./MUL_my_hunter_2019)  |
+| Runner  | [MUL_my_runner_2019](./MUL_my_runner_2019)  |
+
+---
+
+<div align="center">
+
+<a href="https://github.com/blacky-yg" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github.com" width="30"></a>
+
+</div>
