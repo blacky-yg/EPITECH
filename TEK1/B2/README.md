@@ -15,52 +15,56 @@
     </thead>
     <tbody>
         <tr>
-            <td><a href="./B-AIA-100">B-AIA-200</a></td>
-            <td>C Pool</td>
+            <td><a href="./B-AIA-100">B-AIA-200 (Introduction to A.I.)</a></td>
+            <td>Autonomous car simulation using V-REP</td>
         </tr>
         <tr>
-            <td><a href="./B-CPE-101">B-CPE-200</a></td>
-            <td></td>
+            <td><a href="./B-CPE-200">B-CPE-200 (Elementary programming in C (Part I))</a></td>
+            <td>Problem analysis and the division and meticulous implementation</td>
         </tr>
         <tr>
-            <td><a href="./B-CPE-110">B-CPE-201</a></td>
-            <td></td>
+            <td><a href="./B-CPE-201">B-CPE-201 (Elementary programming in C (Part II))</a></td>
+            <td>Progress in the basics of programming and algorithms.</td>
         </tr>
         <tr>
-            <td><a href="./B-CPE-111">B-FRE-200</a></td>
-            <td></td>
+            <td><a href="./B-FRE-200">B-FRE-200 (Écrits professionnels)</a></td>
+            <td>Ecrits Pro</td>
         </tr>
         <tr>
-            <td><a href="./B-CPE-130">B-MAT-200</a></td>
-            <td></td>
+            <td><a href="./B-MAT-200">B-MAT-200 (Mathematics)</a></td>
+            <td>Scientific programming</td>
         </tr>
         <tr>
-            <td><a href="./B-FRE-100">B-MUL-200</a></td>
-            <td></td>
+            <td>B-MET-200 (Professionals</td>
+            <td>Review and Code Review Sessions</td>
         </tr>
         <tr>
-            <td><a href="./B-MAT-100">B-NSA-200</a></td>
-            <td></td>
+            <td><a href="./B-MUL-200">B-MUL-200 (C Graphical Programming)</a></td>
+            <td>Go further into the skills in this domain and to synthetise your experience onto a final project: MyRPG</td>
         </tr>
         <tr>
-            <td><a href="./B-MUL-100">B-PSU-200</a></td>
-            <td></td>
+            <td><a href="./B-NSA-200">B-NSA-200 (Networks and Systems Administration)</a></td>
+            <td>Exploitation system without graphic interface</td>
         </tr>
         <tr>
-            <td><a href="./B-PSU-100">B-PSU-210</a></td>
-            <td></td>
+            <td><a href="./B-PSU-200">B-PSU-200 (Unix System programming)</a></td>
+            <td>Let's continue with the fundamentals of UNIX programming.</td>
         </tr>
         <tr>
-            <td><a src="./B-PSU-100" >B-SEC-200</a></td>
-            <td></td>
+            <td><a href="./B-PSU-210">B-PSU-210 (Shell Programming)</a></td>
+            <td>Enable you to transition from the minishell to a complete UNIX shell (the 42sh).</td>
         </tr>
         <tr>
-            <td><a href="./B-PSU-101">B-WEB-200</a></td>
-            <td></td>
+            <td><a src="./B-SEC-200" >B-SEC-200 (Binary Security)</a></td>
+            <td>A study of the vulnerabilities associated with application development</td>
         </tr>
         <tr>
-            <td><a href="./B-PSU-101">G-JAM-001</a></td>
-            <td></td>
+            <td><a href="./B-WEB-200">B-WEB-200 (Introduction to Web Development)</a></td>
+            <td>Project that will introduce you to the wonderful world of web development. </td>
+        </tr>
+        <tr>
+            <td><a href="./G-JAM-001">G-JAM-001</a>EPITECH JAM</td>
+            <td>JAM</td>
         </tr>
     </tbody>
 </table>

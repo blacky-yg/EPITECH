@@ -20,3 +20,16 @@ Your competencies will be evaluated through a project.
 - Managing users and their rights and permission
 
 - Configuring a graphic environment
+
+## PROJECTS
+
+| Project  | Repository |
+| ------------- | ------------- |
+
+---
+
+<div align="center">
+
+<a href="https://github.com/blacky-yg" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github.com" width="30"></a>
+
+</div>

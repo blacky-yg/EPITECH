@@ -36,3 +36,18 @@ New skills to acquire:
 - Creation of UI elements (e.g. subwindows, buttons)
 - Responsivity of user interactions (animations, color changes, layering)
 - In-game balancing (skills, stuff)
+
+## PROJECTS
+
+| Project  | Repository |
+| ------------- | ------------- |
+| Defender | [MUL_my_defender_2019](./MUL_my_defender_2019)  |
+| RPG  | [MUL_my_rpg_2019](./MUL_my_rpg_2019)  |
+
+---
+
+<div align="center">
+
+<a href="https://github.com/blacky-yg" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github.com" width="30"></a>
+
+</div>

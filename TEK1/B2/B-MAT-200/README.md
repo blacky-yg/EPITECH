@@ -21,3 +21,21 @@ You will be graded on the following:
 - the number of skills validated
 - the quality of Pitch presentations
 - accuracy
+
+## PROJECTS
+
+| Project  | Repository |
+| ------------- | ------------- |
+| 106bombyx  | [106bombyx_2019](./106bombyx_2019)  |
+| 107trasnfer  | [107transfer_2019](./107transfer_2019)  |
+| 108trigo  | [108trigo_2019](./108trigo_2019)  |
+| 109titration  | [109titration_2019](./109titration_2019)  |
+| 110borwein | [110borwein_2019](./110borwein_2019)  |
+
+---
+
+<div align="center">
+
+<a href="https://github.com/blacky-yg" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github.com" width="30"></a>
+
+</div>

@@ -24,3 +24,17 @@ The main key words are in the project description. It's up to you to know how to
 •	Introduction to research in a state-space
 •	Awareness of the data structure problems and algorithmic complexity
 •	Methodical approach to measuring a program's performance
+
+## PROJECTS
+
+| Project  | Repository |
+| ------------- | ------------- |
+| Need For Stek  | [AIA_n4s_2019](./AIA_n4s_2019)  |
+
+---
+
+<div align="center">
+
+<a href="https://github.com/blacky-yg" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github.com" width="30"></a>
+
+</div>

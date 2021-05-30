@@ -43,3 +43,17 @@ Knowing the basics of taking control of a program's execution flux.
 Understanding how a simple algorithm works by reading its assembler code.
 Overruling the anti-debug techniques.
 Overruling a system's protections.
+
+## PROJECTS
+
+| Project  | Repository |
+| ------------- | ------------- |
+| Noob  | [Noob](./Noob)  |
+
+---
+
+<div align="center">
+
+<a href="https://github.com/blacky-yg" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github.com" width="30"></a>
+
+</div>

@@ -44,3 +44,19 @@ Ces ressources sont en libre accès sur l'E-learning (Semestre 0 / Auto-formatio
 
 3) Savoir composer et vérifier ses écrits en tenant compte des impératifs communs à tout écrit professionnel: - identifier ses écrits - s'adapter à une demande, un objectif, un destinataire - se rendre compréhensible facilement - mettre en valeur ses documents par une mise en page soignée - effectuer les vérifications indispensables avant de transmettre ses écrits.
 Chaque projet permet d'évaluer les compétences spécifiques attendues du projet ainsi que les compétences communes à tout écrit.
+
+## PROJECTS
+
+| Project  | Repository |
+| ------------- | ------------- |
+| Emploi  | [Emploi](./B2EMPLOI)  |
+| Faire Préciser | [Faire Préciser](./B2PRECISER)  |
+| Vente | [Vente](./B2VENTE)  |
+
+---
+
+<div align="center">
+
+<a href="https://github.com/blacky-yg" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github.com" width="30"></a>
+
+</div>
