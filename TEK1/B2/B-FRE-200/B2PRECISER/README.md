@@ -15,3 +15,11 @@ Vous allez devoir lui faire préciser en quoi consistent ses besoins pour cette 
 ✓ Ces questions devront être suffisamment précises pour que leurs réponses vous apportent les informations nécessaires pour cerner le projet.
 
 ## MARK (17 / 20)
+
+---
+
+<div align="center">
+
+<a href="https://github.com/blacky-yg" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github.com" width="30"></a>
+
+</div>

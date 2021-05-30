@@ -24,3 +24,11 @@ pages maximum si vous incluez une page de garde.
 ✓ Effectuer les contrôles de qualité du document avant de le transmettre : la phase de relecture est incontournable.
 
 ## MARK (19 / 20)
+
+---
+
+<div align="center">
+
+<a href="https://github.com/blacky-yg" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github.com" width="30"></a>
+
+</div>

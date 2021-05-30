@@ -19,3 +19,11 @@ Il va maintenant falloir convaincre les clients potentiels d’acheter ce produi
 ✓ Votre lettre personnalisée doit tenir sur 1 page.
 
 ## MARK (19 / 20)
+
+---
+
+<div align="center">
+
+<a href="https://github.com/blacky-yg" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github.com" width="30"></a>
+
+</div>

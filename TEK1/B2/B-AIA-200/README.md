@@ -7,8 +7,8 @@ This unit is made up of one single project, which consists of simulating an auto
 It is also an excuse to have you briefly discover the world of Artificial Intelligence: what is it about? what can we do with it?
 
 A few things (in no particular order):
-        - The unit will end with a local tournament to see whose car is the fastest!
-        - There are a lot of possible techniques and optimizations in order to go faster. Come have fun!  I
+- The unit will end with a local tournament to see whose car is the fastest!
+- There are a lot of possible techniques and optimizations in order to go faster. Come have fun!  I
 
 - - -
 
