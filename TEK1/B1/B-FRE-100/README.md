@@ -59,9 +59,9 @@ Savoir s'organiser en groupe pour mener un projet à terme.
 
 | Project  | Repository |
 | ------------- | ------------- |
-| Lettre  | [Lettre](./B-FRE-100-COT-1-1-B1LETTRE-hamidou.tessilimi)  |
-| Mail | [Mail](./B-FRE-100-COT-1-1-B1MAIL-hamidou.tessilimi)  |
-| Rush (Seigneurs des mots) | [Rush](./B-FRE-100-COT-1-1-B1RUSH-basilia.tomeho)  |
+| Lettre  | [Lettre](./B1LETTRE)  |
+| Mail | [Mail](./B1MAIL)  |
+| Rush (Seigneurs des mots) | [Rush](./B1RUSH)  |
 
 ---
 
