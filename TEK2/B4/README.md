@@ -10,60 +10,74 @@
     <thead>
         <tr>
             <th>MODULE NAME</th>
+            <th>LANGUAGE</th>
             <th>DESCRIPTION</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td><a href="./B-ASM-400" >B-ASM-400 (x86-64 Assembly)</a></td>
+            <td align="center">Assembly</td>
             <td>Presentation of the x86-64 Assembly and the use of this low-level language for the development of a minimalistic C library.</td>
         </tr>
         <tr>
             <td><a href="./B-EPI-300" >B-EPI-300 (IONIS Project Week)</a></td>
+            <td align="center"></td>
             <td>Business world situations and creation and innovation</td>
         </tr>
         <tr>
             <td><a href="./B-PSU-400" >B-PSU-400 (Unix Prog. - Memory)</a></td>
+            <td align="center">C</td>
             <td>Next installment of the first year's UNIX system programming unit</td>
         </tr>
         <tr>
             <td><a href="./B-NWP-400" >B-NWP-400 (Network Programming)</a></td>
+            <td align="center">C</td>
             <td>introduce you to the following concepts: Network communication and Data packets</td>
         </tr>
         <tr>
             <td><a href="./B-MAT-400" >B-MAT-400 (Mathematicals)</a></td>
+            <td align="center">C, C++, Python</td>
             <td>Probablilty and Statistics Unit</td>
         </tr>
         <tr>
             <td><a href="./B-OOP-400" >B-OOP-400 (Object-Oriented Programming)</a></td>
+            <td align="center">C++</td>
             <td>Discuss modularization and problematic' abstraction by using practical examples such as dynamic libraries.</td>
         </tr>
         <tr>
             <td><a href="./G-JAM-001" >G-JAM-001 (EPITECH Jam)</a></td>
+            <td align="center"></td>
             <td>JAM</td>
         </tr>
         <tr>
             <td><a href="./B-FRE-400" >B-FRE-400 (Écrits professionnels)</a></td>
+            <td align="center">French</td>
             <td>Ecrits Pro</td>
         </tr>
         <tr>
             <td><a href="./B-DOP-400" >B-DOP-400 (DevOps)</a></td>
+            <td align="center">Docker, Jenkins</td>
             <td>Learn the ins and outs of the DevOps ecosystem</td>
         </tr>
         <tr>
             <td><a href="./B-CNA-410" >B-CNA-410 (Computer Numerical Analysis - Trading)</a></td>
+            <td align="center">Python</td>
             <td>Play around with stock market prices</td>
         </tr>
         <tr>
             <td><a href="./B-FUN-400" >B-FUN-400 (Functional programming)</a></td>
+            <td align="center">Haskell</td>
             <td>Functional programming with Haskell</td>
         </tr>
         <tr>
             <td><a href="./B-SEC-400" >B-SEC-400 (Web Security)</a></td>
+            <td align="center">Web Technologies (HTML, SQL, Javascript)</td>
             <td>Study of vulnerabilities linked to the development of Web applications</td>
         </tr>
         <tr>
             <td><a href="./B-YEP-400" >B-YEP-400 (Year-End-Project - Indie Studio)</a></td>
+            <td align="center">C++</td>
             <td>Discuss modularization and problematic' abstraction by using practical examples such as dynamic libraries and threads when using the OOP paradigm</td>
         </tr>
     </tbody>
