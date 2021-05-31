@@ -17,3 +17,20 @@ In order to validate this unit, you must show, through your project, that you ha
 - Technical skills
 - Organizational and personal (precision etc.) skills 
 - "Group work management" 
+
+## PROJECTS
+
+| Project  | Repository |
+| ------------- | ------------- |
+| malloc Bootstrap  | [B-PSU-400-COT-4-1-bsmalloc-hamidou.tessilimi](./B-PSU-400-COT-4-1-bsmalloc-hamidou.tessilimi)  |
+| malloc | [B-PSU-400-COT-4-1-malloc-hamidou.tessilimi](./B-PSU-400-COT-4-1-malloc-hamidou.tessilimi)  |
+| nmonjdump Bootstrap  | [B-PSU-400-COT-4-1-bsnmobjdump-hamidou.tessilimi](./B-PSU-400-COT-4-1-bsnmobjdump-hamidou.tessilimi)  |
+| nmobjdump  | [B-PSU-400-COT-4-1-nmobjdump-hamidou.tessilimi](./B-PSU-400-COT-4-1-nmobjdump-hamidou.tessilimi)  |
+
+---
+
+<div align="center">
+
+<a href="https://github.com/blacky-yg" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github.com" width="30"></a>
+
+</div>

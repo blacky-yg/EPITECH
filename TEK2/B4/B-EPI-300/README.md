@@ -9,3 +9,11 @@ The similarities in your profiles will be closer to business world situations an
 Once the projects have been presented, a number of them will be selected for a second week, which will, in turn, enable a project Bootstrap, which will be followed by a final jury. 
 
 1 credit for participation in the first stage of the project, 2 more credits if students participate in second stage and 1 final credit if students are selected to participate to the national contest.
+
+---
+
+<div align="center">
+
+<a href="https://github.com/blacky-yg" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github.com" width="30"></a>
+
+</div>

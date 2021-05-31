@@ -42,3 +42,4 @@ To replace the default memory-allocation functions with our functions, execute t
 LD_LIBRARY_PATH=$(pwd)
 LD_PRELOAD=/path/to/our/library/libmy_malloc.so ./path/to/your/c/program
 Authors
+
