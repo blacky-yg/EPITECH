@@ -29,15 +29,15 @@
         </tr>
         <tr>
             <td>TEK 3</td>
-            <td></td>
+            <td> Coming Soon</td>
         </tr>
         <tr>
             <td>TEK 4</td>
-            <td></td>
+            <td>Coming Soon</td>
         </tr>
         <tr>
             <td>TEK 5</td>
-            <td></td>
+            <td>Coming Soon</td>
         </tr>
     </tbody>
 </table>
