@@ -1,0 +1,75 @@
+################################################################################
+#                                                                              #
+#                        README for the list project                           #
+#                        made by maxime montinet                               #
+#                        contact montin_m@epitech.net                          #
+#                                                                              #
+################################################################################
+
+I - GENERAL
+-----------
+
+	These code examples are designed to introduce C++ by the need for object-
+	-oriented programs.
+
+	There are 7 steps, organized in directories named "stepX/". Steps are:
+	-Step 1 : Dumb, non-generic C list
+	-Step 2 : Generic C list
+	-Step 3 : Generic C list, written with object-like syntax
+	-Step 4 : Dumb generic C++ list, using void*/length couples as content
+	-Step 5 : More effective C++ list, using polymorphic items
+	-Step 6 : Generic C++ chain list template with basic functionalities
+	-Step 7 : STL std::list sample use
+
+II - DOCUMENTATION
+------------------
+
+	Each step's headers are documented with Doxygen.
+
+	To generate the documentation, simply type "make doc" in the root directory
+	or a stepX directory. The documentations are located in each step's "doc/"
+	subdirectory.
+
+	Depending on your doxygen configuration, you may have to separately build
+	the LaTeX part of the documentation, located in doc/latex.
+
+	An HTML documentation will be generated in doc/html.
+
+	Note that you HAVE to have a "doxygen" executable installed to build
+	the documentation.
+
+III - BUILDING THE EXAMPLES
+---------------------------
+
+	You can build all examples at once (using the Makefile in the root dir),
+	or separately (using the Makefiles in the stepX/ directories).
+
+	By default, "make" builds a test executable, executes it, and builds
+	a "demo" excutable if the tests succeeded.
+	The "demo" executable is what interests you.
+
+	Makefile rules:
+	---------------
+
+	Rule: all
+	Action: Builds the tests, runs them, then builds the "demo" executable
+
+	Rule: clean
+	Action: Removes the object files
+
+	Rule: fclean
+	Action: Invokes clean, and removes executables and documentation
+
+	Rule: re
+	Action: Invokes fclean then all
+
+	Rule: doc
+	Action: Invokes doxygen to make the documentation in "doc/" subdir.
+
+IV - FEEDBACK
+-------------
+
+	These sample codes may include mistakes. If you notice one, please mail
+	koala@epitech.net and we'll correct the code as soon as possible.
+
+	Thanks for your help !

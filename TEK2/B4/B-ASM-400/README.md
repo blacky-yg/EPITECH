@@ -22,7 +22,8 @@ x86-64 assembly knowledge that is sufficient enough for you to write small appli
 
 | Project  | Repository |
 | ------------- | ------------- |
-| nameofprojet  | [nameofrepo](./path)  |
+| ASM Bootstrap  | [B-PSU-400-COT-4-1-bsasmminilibc-hamidou.tessilimi](./B-ASM-400-COT-4-1-bsasmminilibc-hamidou.tessilimi)  |
+| ASM | [B-ASM-400-COT-4-1-asmminilibc-hamidou.tessilimi](./B-ASM-400-COT-4-1-asmminilibc-hamidou.tessilimi)  |
 
 ---
 
