@@ -1,0 +1,26 @@
+#!/usr/bin/env python3.8
+
+import sys
+from utils import *
+from math import *
+from calc import *
+
+def main(a):
+    avgt_min, avgt_sec = average(a)
+    aver = avgt_min + (avgt_sec / 60)
+    dev = std_deviation(a, aver)
+    fiftyp_min, fiftyp_sec = back_time(a, 0.5)
+    ninetyp_min, ninetyp_sec = back_time(a, 0.99)
+    one_min = back_percent(a, 1) * 100
+    two_min = back_percent(a, 2) * 100
+    print("Average return time: {}m {}s".format(avgt_min, avgt_sec))
+    print("Standard deviation: " + "%.3f" % dev)
+    print("Time after which 50% of the ducks are back: {}m {}{}s".format(fiftyp_min, int(fiftyp_sec / 10), fiftyp_sec % 10))
+    print("Time after which 99% of the ducks are back: {}m {}{}s".format(ninetyp_min, int(ninetyp_sec / 10), ninetyp_sec % 10))
+    print("Percentage of ducks back after 1 minute: %.1f%%" % one_min)
+    print("Percentage of ducks back after 2 minutes: %.1f%%" % two_min)
+
+if __name__ == '__main__':
+    check_av(len(sys.argv), sys.argv)
+    main(float(sys.argv[1]))
+    sys.exit(0)

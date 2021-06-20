@@ -1,0 +1,52 @@
+##
+## EPITECH PROJECT, 2021
+## myftp
+## File description:
+## Makefile
+##
+
+#COLOR
+RED				=	\e[31m
+GREEN			=	\e[32m
+YELLOW			=	\e[33m
+DEFAULT			=	\e[0m
+BOLD			=	\e[1m
+
+#TEXT
+COMPILE			=	$$'$(BOLD)$(GREEN)[ Compiled the project ! ]\t$(DEFAULT)'
+RE_COMPILE		=	$$'$(BOLD)$(GREEN)[ Recompiled the project ! ]\t$(DEFAULT)'
+CLEAN			=	$$'$(BOLD)$(RED)[ Removed useless files... ]\t$(DEFAULT)'
+FCLEAN			=	$$'$(BOLD)$(RED)[ Removed binary... ]\t$(DEFAULT)'
+
+SRCS	=	$(shell find ./src -name "*.c")
+
+OBJS	=	$(SRCS:.c=.o)
+
+USELESS		=	$(shell find . -type f -name "*~" -o -name "*.gcda" -o -name "*.gcno" -o -name "\#*\#" -o -name "v*")
+
+LDFLAGS		=	-Wall -Wextra -Werror -W
+
+NAME		=	myftp
+
+all:	$(NAME)
+
+$(NAME):	$(OBJS)
+	@gcc -o $(NAME) $(OBJS) $(LDFLAGS)
+	@echo $(COMPILE)
+
+%.o: %.c
+	@gcc -o $@ -c $< -g
+
+clean:
+	@rm -f $(USELESS) $(OBJS)
+	@echo $(CLEAN)
+
+fclean:
+	@rm -f $(USELESS) $(OBJS)
+	@rm -f $(TEST_NAME) $(NAME)
+	@echo $(FCLEAN)
+
+re: fclean all
+	@echo $(RE_COMPILE)
+
+.PHONY: all tests_run clean fclean re

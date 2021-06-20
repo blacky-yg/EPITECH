@@ -1,0 +1,25 @@
+#!/usr/bin/env python3.8
+
+import sys
+from parse import *
+from calc import *
+from getValues import *
+from printValues import *
+
+def main(av):
+   clist = getClasses(av[1:])
+   sucprob = distribution(av[1:])
+   xarray, oxarray, txarray = getArray(clist, av[1:], sucprob)
+   chisq = getChisquared(oxarray, txarray)
+   degree = len(clist) - 2
+
+   printArray(xarray, oxarray, txarray)
+   printDistribution(sucprob)
+   printChisquared(chisq)
+   printDegree(degree)
+   printInterval(chisq, degree)
+
+if __name__ == '__main__':
+   av, ac = sys.argv, len(sys.argv)
+   check_av(ac, av)
+   main(av)

@@ -1,0 +1,15 @@
+#!/usr/bin/env python3.8
+import sys
+from parse import *
+from perform_action import perform_action
+
+def main(ac, av):
+    check_av(ac, av)
+    d = []
+    for i in range(1, 6):
+        d.append(my_getnbr(av[i]))
+    perform_action(d, av[6].split("_"))
+
+if __name__ == '__main__':
+    main(len(sys.argv), sys.argv)
+    sys.exit(0)
