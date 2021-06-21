@@ -29,5 +29,11 @@ def check_av(ac, av):
     for i in range(1, ac - 1):
         if not av[i].isdigit():
             error()
+    if (int(av[1]) <= 0 or int(av[2]) <= 0):
+        error()
+    if (int(av[2]) >= int(av[1])):
+        error()
     if not isinstance(float(av[3]), float):
+        error()
+    if (float(av[3]) < 0.0 or float(av[3]) > 100.0):
         error()
