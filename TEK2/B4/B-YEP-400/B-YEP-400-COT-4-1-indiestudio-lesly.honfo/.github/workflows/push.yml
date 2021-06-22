@@ -1,0 +1,22 @@
+name: Build on Linux with Epitech Container
+on: [push, pull_request]
+
+jobs:
+  testbox:
+    if: github.event_name == 'push' || github.event.pull_request.head.repo.full_name != github.repository
+    runs-on: ubuntu-latest
+    container:
+      image: epitechcontent/epitest-docker:latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: true
+      - name: CMake Build
+        run: |
+          mkdir build && cd build
+          cmake .. -G "Unix Makefiles"
+          cmake --build .
+          cp bomberman ..
+      - name: Check Binary Name
+        shell: bash
+        run: test -f bomberman

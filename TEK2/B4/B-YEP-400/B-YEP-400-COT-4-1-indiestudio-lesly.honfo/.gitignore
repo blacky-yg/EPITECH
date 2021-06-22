@@ -1,0 +1,14 @@
+# Ignore all the temporary files
+*.o
+*~
+.*~
+.*#
+*#
+CMakeFiles/
+.vscode/
+build/
+CMakeCache.txt
+cmake_install.cmake
+CMakeSettings.json
+Makefile
+bomberman
